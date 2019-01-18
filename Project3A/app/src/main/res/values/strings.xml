@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project3A</string>
+    <string name="perm_desc">This permission is mandatory and without it user cannot proceed.</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project3CFin</string>
+    <string name="perm_desc">This permission is mandatory and without it user cannot proceed.</string>
+    <string-array name="pt_of_interest">
+        <item>Golden Gate Bridge</item>
+        <item>Muir Woods National Monument</item>
+        <item>Alcatraz Island</item>
+        <item>Pier 39</item>
+        <item>Golden Gate Park</item>
+        <item>Union Park</item>
+    </string-array>
+    <string-array name="websites">
+        <item>http://www.goldengatebridge.org/</item>
+        <item>https://www.nps.gov/muwo/index.htm</item>
+        <item>https://www.nps.gov/alca/index.htm</item>
+        <item>https://www.pier39.com/</item>
+        <item>https://sfrecpark.org/parks-open-spaces/golden-gate-park-guide/</item>
+        <item>http://www.visitunionsquaresf.com/</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
